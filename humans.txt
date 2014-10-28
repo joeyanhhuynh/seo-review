@@ -1,0 +1,22 @@
+#TEAM
+
+Designer & Developer: Joey Anh Huynh
+E-mail: joeyanhhuynh@yahoo.ca
+Site: http://joeyanhhuynh.com
+GitHub: http://gitbub.com/joeyanhhuynh
+Location: Ottawa, Canada
+
+___
+
+#THANKS
+
+Slideshow from Some Person<http://slideshow.com>
+Big Image © Another Person<http://geddyimages.com>
+
+___
+
+# TECHNOLOGY
+
+-Sublime Text
+-GitHub
+-Hover.com
